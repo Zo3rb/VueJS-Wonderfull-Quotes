@@ -1,24 +1,2 @@
-# simple-blog
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Download, serve & Dev or Build
+## Or You Can Check Live Version from (HERE)[https://angry-turing-684c80.netlify.app/]
